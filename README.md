@@ -15,3 +15,12 @@ for Schedule download time add this line :
 `30 01 * * * bash /home/user/cronydl/ydl`
 
 Download will Start at 01:30 A.M evry Night.
+
+
+
+
+https://github.com/rg3/youtube-dl#installation
+
+https://github.com/torproject/tor
+
+
