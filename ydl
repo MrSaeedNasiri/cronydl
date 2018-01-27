@@ -1,0 +1,2 @@
+#!/bin/bash
+torsocks youtube-dl --batch-file='/home/red/ytlist'
