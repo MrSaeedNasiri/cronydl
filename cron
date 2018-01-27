@@ -1,2 +1,0 @@
-# m h  dom mon dow   command
-30 01 * * * bash /home/pi/ydl
