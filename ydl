@@ -1,2 +1,6 @@
 #!/bin/bash
-torsocks youtube-dl --batch-file='/home/red/ytlist'
+#replace USER with your user and ytlist is a text file with links per line u need to download ( Download List )
+#if youtube block on your country disable next line :
+youtube-dl --batch-file='/home/USER/ytlist'
+#for unblock youtube enable next line and install tor with terminal : sudo apt-get install tor
+#torsocks youtube-dl --batch-file='/home/USER/ytlist'
